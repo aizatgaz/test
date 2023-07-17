@@ -26,5 +26,5 @@ CREATE TABLE `number_table` (
 
 <hr>
 Вот как это выглядит:
-![123](https://github.com/aizatgaz/test/assets/100792272/c2f5395b-9888-44b7-b899-fcdbcb1f4635)
 
+![123](https://github.com/aizatgaz/test/assets/100792272/f8eff16f-9b8c-46d1-b923-18ae7071dbb6)
