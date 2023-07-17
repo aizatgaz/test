@@ -23,3 +23,8 @@ CREATE TABLE `number_table` (
 
 В качестве БД подойдет H2.
 Остальное: Vaadin 24, Java 17, Maven, Spring Boot 3
+
+<hr>
+Вот как это выглядит:
+![123](https://github.com/aizatgaz/test/assets/100792272/c2f5395b-9888-44b7-b899-fcdbcb1f4635)
+
