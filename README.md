@@ -1,7 +1,7 @@
 # test
 Тест для вакансии.
 
-Перед запуском у вас должна быть таблица в MySQL:
+Перед запуском у вас должна быть таблица `number_table` в MySQL:
 
 CREATE TABLE `number_table` (
   `id` int NOT NULL,
@@ -9,6 +9,9 @@ CREATE TABLE `number_table` (
   PRIMARY KEY (`id`)
 );
 
+А так же поменять базу (schema) данных в файле application.properties, всесто "my_db" на свою, где вы создали `number_table`
+
+<hr>
 
 Тестовое задание:
 Добавить кнопку и текстовое поле на страницу.
